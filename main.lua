@@ -1,4 +1,4 @@
--- Project Backdoor Exe | The Best ServerSide #1 💫
+-- Project Backdoor Exe | The Best ServerSide #1
 -- 0.2.5
 
 
@@ -244,7 +244,7 @@
 
 -- Instances:
 local Converted = {
-	["_Starlight"] = Instance.new("ScreenGui");
+	["_ProjectBackdoorExe"] = Instance.new("ScreenGui");
 	["_Frame"] = Instance.new("Frame");
 	["_UICorner"] = Instance.new("UICorner");
 	["_UIStroke"] = Instance.new("UIStroke");
@@ -394,12 +394,12 @@ local Converted = {
 
 -- Properties:
 
-Converted["_Starlight"].DisplayOrder = 999
-Converted["_Starlight"].IgnoreGuiInset = true
-Converted["_Starlight"].ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
-Converted["_Starlight"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-Converted["_Starlight"].Name = "Starlight"
-Converted["_Starlight"].Parent = game:GetService("CoreGui")
+Converted["_ProjectBackdoorExe"].DisplayOrder = 999
+Converted["_ProjectBackdoorExe"].IgnoreGuiInset = true
+Converted["_ProjectBackdoorExe"].ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
+Converted["_ProjectBackdoorExe"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Converted["_ProjectBackdoorExe"].Name = "Starlight"
+Converted["_ProjectBackdoorExe"].Parent = game:GetService("CoreGui")
 
 Converted["_Frame"].BackgroundColor3 = Color3.fromRGB(12.000000234693289, 12.000000234693289, 12.000000234693289)
 Converted["_Frame"].BorderColor3 = Color3.fromRGB(0, 0, 0)
