@@ -1,4 +1,4 @@
--- starlight 💫
+-- Project Backdoor Exe | The Best ServerSide #1 💫
 -- 0.2.5
 
 
@@ -416,7 +416,7 @@ Converted["_UIStroke"].Color = Color3.fromRGB(89.00000229477882, 89.000002294778
 Converted["_UIStroke"].Thickness = 0.699999988079071
 Converted["_UIStroke"].Parent = Converted["_Frame"]
 
-Converted["_ImageLabel"].Image = "rbxassetid://138561242127995"
+Converted["_ImageLabel"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel"].BackgroundTransparency = 1
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -425,7 +425,7 @@ Converted["_ImageLabel"].Position = UDim2.new(0.0159850847, 0, 0.0399873629, 0)
 Converted["_ImageLabel"].Size = UDim2.new(0, 169, 0, 60)
 Converted["_ImageLabel"].Parent = Converted["_Frame"]
 
-Converted["_stat"].Image = "rbxassetid://7442093008"
+Converted["_stat"].Image = "rbxassetid://107359045889975"
 Converted["_stat"].ImageColor3 = Color3.fromRGB(226.0000017285347, 69.00000348687172, 69.00000348687172)
 Converted["_stat"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_stat"].BackgroundTransparency = 1
@@ -464,7 +464,7 @@ Converted["_UIStroke1"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233
 Converted["_UIStroke1"].Thickness = 1.5
 Converted["_UIStroke1"].Parent = Converted["_c"]
 
-Converted["_ImageLabel1"].Image = "rbxassetid://12953907125"
+Converted["_ImageLabel1"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel1"].ImageColor3 = Color3.fromRGB(144.00000661611557, 144.00000661611557, 144.00000661611557)
 Converted["_ImageLabel1"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel1"].BackgroundTransparency = 1
@@ -505,7 +505,7 @@ Converted["_UIStroke2"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233
 Converted["_UIStroke2"].Thickness = 1.5
 Converted["_UIStroke2"].Parent = Converted["_Clear"]
 
-Converted["_ImageLabel2"].Image = "rbxassetid://16346922164"
+Converted["_ImageLabel2"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel2"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel2"].BackgroundTransparency = 1
 Converted["_ImageLabel2"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -536,7 +536,7 @@ Converted["_UIStroke3"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233
 Converted["_UIStroke3"].Thickness = 1.5
 Converted["_UIStroke3"].Parent = Converted["_Execute"]
 
-Converted["_ImageLabel3"].Image = "rbxassetid://7980684777"
+Converted["_ImageLabel3"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel3"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel3"].BackgroundTransparency = 1
 Converted["_ImageLabel3"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -569,7 +569,7 @@ Converted["_UIStroke4"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233
 Converted["_UIStroke4"].Thickness = 1.5
 Converted["_UIStroke4"].Parent = Converted["_scan"]
 
-Converted["_ImageLabel4"].Image = "rbxassetid://115736032752379"
+Converted["_ImageLabel4"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel4"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel4"].BackgroundTransparency = 1
 Converted["_ImageLabel4"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -635,7 +635,7 @@ Converted["_UIStroke5"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233
 Converted["_UIStroke5"].Thickness = 1.5
 Converted["_UIStroke5"].Parent = Converted["_rsix"]
 
-Converted["_ImageLabel5"].Image = "rbxassetid://16346922164"
+Converted["_ImageLabel5"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel5"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel5"].BackgroundTransparency = 1
 Converted["_ImageLabel5"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -668,7 +668,7 @@ Converted["_UIStroke6"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233
 Converted["_UIStroke6"].Thickness = 1.5
 Converted["_UIStroke6"].Parent = Converted["_dc"]
 
-Converted["_ImageLabel6"].Image = "rbxassetid://124991788631069"
+Converted["_ImageLabel6"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel6"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel6"].BackgroundTransparency = 1
 Converted["_ImageLabel6"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -734,7 +734,7 @@ Converted["_UICorner7"].Parent = Converted["_TextBox"]
 
 Converted["_TextLabel"].Font = Enum.Font.Code
 Converted["_TextLabel"].RichText = true
-Converted["_TextLabel"].Text = "-- welcome to starlight"
+Converted["_TextLabel"].Text = "-- welcome to Project Backdoor Exe!"
 Converted["_TextLabel"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel"].TextSize = 18
 Converted["_TextLabel"].TextTruncate = Enum.TextTruncate.AtEnd
@@ -807,7 +807,7 @@ Converted["_UIStroke9"].Thickness = 1.5
 Converted["_UIStroke9"].Parent = Converted["_Shutdown"]
 
 Converted["_Log1"].Font = Enum.Font.SourceSans
-Converted["_Log1"].Text = "more scripts soon! suggest your script ideas in the server's #general!"
+Converted["_Log1"].Text = "coming soon!"
 Converted["_Log1"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Log1"].TextScaled = true
 Converted["_Log1"].TextSize = 15
@@ -869,7 +869,7 @@ Converted["_UIStroke11"].Thickness = 1.5
 Converted["_UIStroke11"].Parent = Converted["_Sledge"]
 
 Converted["_Star"].Font = Enum.Font.SourceSans
-Converted["_Star"].Text = "starlight hint"
+Converted["_Star"].Text = "Project Backdoor Exe hint"
 Converted["_Star"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Star"].TextScaled = true
 Converted["_Star"].TextSize = 14
@@ -1153,7 +1153,7 @@ Converted["_UIStroke20"].Color = Color3.fromRGB(57.00000040233135, 57.0000004023
 Converted["_UIStroke20"].Thickness = 1.5
 Converted["_UIStroke20"].Parent = Converted["_Executor"]
 
-Converted["_ImageLabel7"].Image = "rbxassetid://96541223"
+Converted["_ImageLabel7"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel7"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel7"].BackgroundTransparency = 1
 Converted["_ImageLabel7"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1184,7 +1184,7 @@ Converted["_UIStroke21"].Color = Color3.fromRGB(57.00000040233135, 57.0000004023
 Converted["_UIStroke21"].Thickness = 1.5
 Converted["_UIStroke21"].Parent = Converted["_Presets1"]
 
-Converted["_ImageLabel8"].Image = "rbxassetid://11570895459"
+Converted["_ImageLabel8"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel8"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel8"].BackgroundTransparency = 1
 Converted["_ImageLabel8"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1215,7 +1215,7 @@ Converted["_UIStroke22"].Color = Color3.fromRGB(57.00000040233135, 57.0000004023
 Converted["_UIStroke22"].Thickness = 1.5
 Converted["_UIStroke22"].Parent = Converted["_Logs1"]
 
-Converted["_ImageLabel9"].Image = "rbxassetid://103052477976081"
+Converted["_ImageLabel9"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel9"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel9"].BackgroundTransparency = 1
 Converted["_ImageLabel9"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1265,7 +1265,7 @@ Converted["_Verify1"].Name = "Verify"
 Converted["_Verify1"].Parent = Converted["_Verify"]
 
 Converted["_Verify2"].Font = Enum.Font.Ubuntu
-Converted["_Verify2"].Text = "To verify, go to https://starlightkey.netlify.app and get the key."
+Converted["_Verify2"].Text = "To verify, go to https://project-backdoor-exe.app and get the key."
 Converted["_Verify2"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Verify2"].TextScaled = true
 Converted["_Verify2"].TextSize = 50
@@ -1340,7 +1340,7 @@ Converted["_UIStroke24"].Color = Color3.fromRGB(57.00000040233135, 57.0000004023
 Converted["_UIStroke24"].Thickness = 1.5
 Converted["_UIStroke24"].Parent = Converted["_m"]
 
-Converted["_ImageLabel10"].Image = "rbxassetid://125716871945612"
+Converted["_ImageLabel10"].Image = "rbxassetid://107359045889975"
 Converted["_ImageLabel10"].ImageColor3 = Color3.fromRGB(144.00000661611557, 144.00000661611557, 144.00000661611557)
 Converted["_ImageLabel10"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel10"].BackgroundTransparency = 1
@@ -1351,7 +1351,7 @@ Converted["_ImageLabel10"].Position = UDim2.new(0.0714285746, 0, 0.0714285746, 0
 Converted["_ImageLabel10"].Size = UDim2.new(0, 35, 0, 35)
 Converted["_ImageLabel10"].Parent = Converted["_m"]
 
-Converted["_bg"].Image = "rbxassetid://992001116"
+Converted["_bg"].Image = "rbxassetid://107359045889975"
 Converted["_bg"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_bg"].BackgroundTransparency = 1
 Converted["_bg"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1372,7 +1372,7 @@ Converted["_UIStroke25"].Color = Color3.fromRGB(89.00000229477882, 89.0000022947
 Converted["_UIStroke25"].Thickness = 0.699999988079071
 Converted["_UIStroke25"].Parent = Converted["_bg"]
 
-Converted["_str"].Image = "rbxassetid://72292814630226"
+Converted["_str"].Image = "rbxassetid://107359045889975
 Converted["_str"].BackgroundColor3 = Color3.fromRGB(16.000000946223736, 16.000000946223736, 16.000000946223736)
 Converted["_str"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_str"].BorderSizePixel = 0
@@ -1381,15 +1381,15 @@ Converted["_str"].Position = UDim2.new(0.845882356, 0, 0.173590511, 0)
 Converted["_str"].Size = UDim2.new(0, 50, 0, 50)
 Converted["_str"].Visible = false
 Converted["_str"].Name = "str"
-Converted["_str"].Parent = Converted["_Starlight"]
+Converted["_str"].Parent = Converted["_ProjectBackdoorExe"]
 
 Converted["_UIStroke26"].ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 Converted["_UIStroke26"].Color = Color3.fromRGB(57.00000040233135, 57.00000040233135, 57.00000040233135)
 Converted["_UIStroke26"].Thickness = 3
-Converted["_UIStroke26"].Parent = Converted["_str"]
+Converted["_UIStroke26"].Parent = Converted["_pbe"]
 
 Converted["_UICorner25"].CornerRadius = UDim.new(0, 6)
-Converted["_UICorner25"].Parent = Converted["_str"]
+Converted["_UICorner25"].Parent = Converted["_pbe"]
 
 -- Fake Module Scripts:
 
@@ -1398,7 +1398,7 @@ local fake_module_scripts = {}
 
 -- Fake Local Scripts:
 
-local function DRHMECY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Frame.LocalScript
+local function DRHMECY_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame1"]
@@ -1451,7 +1451,7 @@ local function DRHMECY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		end
 	end)
 end
-local function KJUYZ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.c.LocalScript
+local function KJUYZ_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.c.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_c"]
@@ -1487,7 +1487,7 @@ local function KJUYZ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.c.
 		frame:Destroy()
 	end)
 end
-local function ZNBCSQ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.Clear.LocalScript
+local function ZNBCSQ_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.Clear.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Clear"]
@@ -1520,7 +1520,7 @@ local function ZNBCSQ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.F
 		script.Parent.Parent.ScrollingFrame.Frame.TextBox.Text = ""
 	end)
 end
-local function AFONOR_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.Execute.LocalScript
+local function AFONOR_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.Execute.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Execute"]
@@ -1550,7 +1550,7 @@ local function AFONOR_fake_script() -- Fake Script: StarterGui.Starlight.Frame.F
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function YPCJUG_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.scan.LocalScript
+local function YPCJUG_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.scan.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_scan"]
@@ -1580,7 +1580,7 @@ local function YPCJUG_fake_script() -- Fake Script: StarterGui.Starlight.Frame.F
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function WLFPRX_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.rsix.LocalScript
+local function WLFPRX_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.rsix.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_rsix"]
@@ -1610,7 +1610,7 @@ local function WLFPRX_fake_script() -- Fake Script: StarterGui.Starlight.Frame.F
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function BEEKENZ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.dc.LocalScript
+local function BEEKENZ_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.dc.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_dc"]
@@ -1641,11 +1641,11 @@ local function BEEKENZ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 	end)
 	script.Parent.MouseButton1Click:Connect(function()
 		game.StarterGui:SetCore("SendNotification",{
-			Title = "💫 starlight",
+			Title = "Project Backdoor Exe | The Best ServerSide Forever!",
 			Text = "discord server link copied",
 			Duration = 12
 		})
-		setclipboard("https://discord.gg/sCwubxMJ9z")
+		setclipboard("https://discord.gg/ZZCRnNxZ")
 	
 	end)
 end
@@ -1664,7 +1664,7 @@ local function CFRCL_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Fr
 
 	script.Parent.Font = Enum.Font.Code
 end
-local function ROEPF_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.ScrollingFrame.Frame.TextBox.LocalScript
+local function ROEPF_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.ScrollingFrame.Frame.TextBox.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextBox"]
@@ -1679,7 +1679,7 @@ local function ROEPF_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Fr
 
 	
 end
-local function AIXWS_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Framee.ScrollingFrame.Frame.LocalScript
+local function AIXWS_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Framee.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame2"]
@@ -1832,7 +1832,7 @@ local function PYPIM_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Pr
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function BKZGV_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.Shutdown.LocalScript
+local function BKZGV_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.Shutdown.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Shutdown"]
@@ -1862,7 +1862,7 @@ local function BKZGV_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Pr
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function LCBUNZQ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.Trash.LocalScript
+local function LCBUNZQ_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.Trash.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Trash"]
@@ -1892,7 +1892,7 @@ local function LCBUNZQ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function FBNBPO_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.Sledge.LocalScript
+local function FBNBPO_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.Sledge.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Sledge"]
@@ -1922,7 +1922,7 @@ local function FBNBPO_fake_script() -- Fake Script: StarterGui.Starlight.Frame.P
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function RYFSR_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.Star.LocalScript
+local function RYFSR_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.Star.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Star"]
@@ -1952,7 +1952,7 @@ local function RYFSR_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Pr
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function EQUPV_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.CFour.LocalScript
+local function EQUPV_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.CFour.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_CFour"]
@@ -1982,7 +1982,7 @@ local function EQUPV_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Pr
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function GKZXH_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.Hub.LocalScript
+local function GKZXH_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.Hub.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Hub"]
@@ -2012,7 +2012,7 @@ local function GKZXH_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Pr
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function GZZULFM_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.ExSer.LocalScript
+local function GZZULFM_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.ExSer.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_ExSer"]
@@ -2042,7 +2042,7 @@ local function GZZULFM_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function GGAOWS_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Presets.Grab.LocalScript
+local function GGAOWS_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Presets.Grab.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Grab"]
@@ -2072,7 +2072,7 @@ local function GGAOWS_fake_script() -- Fake Script: StarterGui.Starlight.Frame.P
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function JKNFHR_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Logs.LocalScript
+local function JKNFHR_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Logs.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Logs"]
@@ -2108,7 +2108,7 @@ local function JKNFHR_fake_script() -- Fake Script: StarterGui.Starlight.Frame.L
 	_G.getConsoleLogs = getLogs
 	
 end
-local function JZEZBK_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Logs.ToggleMode.LocalScript
+local function JZEZBK_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Logs.ToggleMode.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_ToggleMode"]
@@ -2138,7 +2138,7 @@ local function JZEZBK_fake_script() -- Fake Script: StarterGui.Starlight.Frame.L
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function DVOMOYL_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Logs.BG.LocalScript
+local function DVOMOYL_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Logs.BG.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_BG"]
@@ -2168,7 +2168,7 @@ local function DVOMOYL_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function DTBZ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Sidebar.Executor.LocalScript
+local function DTBZ_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Sidebar.Executor.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Executor"]
@@ -2198,7 +2198,7 @@ local function DTBZ_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Sid
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function ABLVN_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Sidebar.Presets.LocalScript
+local function ABLVN_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Sidebar.Presets.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Presets1"]
@@ -2228,7 +2228,7 @@ local function ABLVN_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Si
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function ZWSBGHC_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Sidebar.Logs.LocalScript
+local function ZWSBGHC_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Sidebar.Logs.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Logs1"]
@@ -2258,7 +2258,7 @@ local function ZWSBGHC_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function BJFA_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Verify.Btn.LocalScript
+local function BJFA_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.Verify.Btn.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Btn"]
@@ -2288,7 +2288,7 @@ local function BJFA_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Ver
 		script.Parent.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function YCEL_fake_script() -- Fake Script: StarterGui.Starlight.Frame.m.LocalScript
+local function YCEL_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.m.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_m"]
@@ -2321,7 +2321,7 @@ local function YCEL_fake_script() -- Fake Script: StarterGui.Starlight.Frame.m.L
 		button.UIStroke.Color = Color3.fromRGB(57,57,57)
 	end)
 end
-local function MMOF_fake_script() -- Fake Script: StarterGui.Starlight.Frame.LocalScript
+local function MMOF_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame"]
@@ -2345,7 +2345,7 @@ local function MMOF_fake_script() -- Fake Script: StarterGui.Starlight.Frame.Loc
 		end
 	end
 end
-local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.LocalScript
+local function OHZSZXY_fake_script() -- Fake Script: StarterGui.ProjectBackdoorExe.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame"]
@@ -2442,7 +2442,7 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 				m.Parent=game:GetService("ReplicatedStorage")
 			]]
 			if isFunction then
-				remote:InvokeServer('starlightTSS', payload .. "\nreturn true")
+				remote:InvokeServer('ProjectBackdoorExeTSS', payload .. "\nreturn true")
 			else
 				remote:FireServer(payload)
 			end
@@ -2489,7 +2489,7 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 			end
 		end
 	
-		print(string.format("💫 starlight: 🔍 scanning %d remotes", #remotes))
+		print(string.format("Project Backdoor Exe: 🔍 scanning %d remotes", #remotes))
 	
 		local MAX_CONCURRENT = 64 -- go wild 😈
 		local activeTasks = 0
@@ -2509,7 +2509,7 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 				end)
 	
 				if ok and result then
-					print("💫 starlight: backdoor found:", remotes[i]:GetFullName())
+					print("Project Backdoor Exe: backdoor found:", remotes[i]:GetFullName())
 				end
 	
 				activeTasks -= 1
@@ -2525,10 +2525,10 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		FinishedFound = true
 	
 		if not foundExploit then
-			print("💫 starlight: no backdoor found")
+			print("Project Backdoor Exe: no backdoor found")
 		end
 	
-		print(string.format("💫 starlight: scan completed in %.3f seconds", scanTime))
+		print(string.format("Project Backdoor Exe: scan completed in %.3f seconds", scanTime))
 	end
 	
 	
@@ -2542,9 +2542,9 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 				remoteFunction:InvokeServer('starlightTSS', code)
 			end)
 		else
-			warn("💫 starlight: no backdoor, cannot execute code.")
+			warn("Project Backdoor Exe: no backdoor, cannot execute code.")
 			game.StarterGui:SetCore("SendNotification",{
-				Title = "💫 starlight",
+				Title = "Project Backdoor Exe",
 				Text = "no backdoor found, or you didn't scan! - can't run code.",
 				Duration = 12
 			})
@@ -2619,7 +2619,7 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 		script.Parent.Logs.Visible = false
 	end)
 	script.Parent.Presets.Star.MouseButton1Click:Connect(function()
-		script.Parent.Framee.ScrollingFrame.Frame.TextBox.Text = 'local h=Instance.new("Hint") h.Parent=workspace h.Text="starlight | the best forever!"'
+		script.Parent.Framee.ScrollingFrame.Frame.TextBox.Text = 'local h=Instance.new("Hint") h.Parent=workspace h.Text="Project Backdoor Exe | The Best ServerSide Forever! #1"'
 		script.Parent.Framee.Visible = true
 		script.Parent.Presets.Visible = false
 		script.Parent.Logs.Visible = false
@@ -2634,7 +2634,7 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 	script.Parent.Logs.ToggleMode.MouseButton1Click:Connect(function()
 		if remoteFunction or remoteEvent then
 			game.StarterGui:SetCore("SendNotification",{
-				Title = "💫 starlight",
+				Title = "Project Backdoor Exe",
 				Text = "the backdoor is already found, you don't need to change this!",
 				Duration = 5
 			})
@@ -2694,7 +2694,7 @@ local function OHZSZXY_fake_script() -- Fake Script: StarterGui.Starlight.Frame.
 	
 			script.Parent.stat.ImageColor3 = Color3.fromRGB(159, 226, 191)
 			game.StarterGui:SetCore("SendNotification",{
-				Title = "💫 starlight",
+				Title = "Project Backdoor Exe",
 				Text = "backdoor found in " .. scanTime .."s! backdoor: " .. (remoteEvent and remoteEvent.Name or remoteFunction and remoteFunction.Name or "unknown"),
 				Duration = 5
 			})
